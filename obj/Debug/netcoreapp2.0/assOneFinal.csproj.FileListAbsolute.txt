@@ -1,0 +1,13 @@
+C:\Users\Will\WAS\assOneFinal\bin\Debug\netcoreapp2.0\app.db
+C:\Users\Will\WAS\assOneFinal\bin\Debug\netcoreapp2.0\assOneFinal.deps.json
+C:\Users\Will\WAS\assOneFinal\bin\Debug\netcoreapp2.0\assOneFinal.runtimeconfig.json
+C:\Users\Will\WAS\assOneFinal\bin\Debug\netcoreapp2.0\assOneFinal.runtimeconfig.dev.json
+C:\Users\Will\WAS\assOneFinal\bin\Debug\netcoreapp2.0\assOneFinal.dll
+C:\Users\Will\WAS\assOneFinal\obj\Debug\netcoreapp2.0\assOneFinal.csprojResolveAssemblyReference.cache
+C:\Users\Will\WAS\assOneFinal\obj\Debug\netcoreapp2.0\assOneFinal.csproj.CoreCompileInputs.cache
+C:\Users\Will\WAS\assOneFinal\obj\Debug\netcoreapp2.0\assOneFinal.AssemblyInfoInputs.cache
+C:\Users\Will\WAS\assOneFinal\obj\Debug\netcoreapp2.0\assOneFinal.AssemblyInfo.cs
+C:\Users\Will\WAS\assOneFinal\bin\Debug\netcoreapp2.0\assOneFinal.pdb
+C:\Users\Will\WAS\assOneFinal\obj\Debug\netcoreapp2.0\assOneFinal.dll
+C:\Users\Will\WAS\assOneFinal\obj\Debug\netcoreapp2.0\assOneFinal.pdb
+C:\Users\Will\WAS\assOneFinal\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
